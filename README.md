@@ -47,4 +47,9 @@
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RubyKaigi2025に参加中](https://hotoolong.hatenablog.com/entry/2025/04/16/232543)
+- [コロナに掛ってました](https://hotoolong.hatenablog.com/entry/2024/06/04/214607)
+- [RubyKaigi2024が開催される](https://hotoolong.hatenablog.com/entry/2024/05/15/013135)
+- [DateとTimeの比較](https://hotoolong.hatenablog.com/entry/2023/09/07/162532)
+- [rbenv で Ruby3.0.4のインストールで失敗する](https://hotoolong.hatenablog.com/entry/2023/07/23/223556)
 <!-- BLOG-POST-LIST:END -->
